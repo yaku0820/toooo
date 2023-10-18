@@ -1,0 +1,12 @@
+POST http://localhost:3005/students
+Content-Type: application/json
+
+
+{
+    "name":"ugnaa"
+}
+
+
+###
+
+GET http://localhost:3005/students
